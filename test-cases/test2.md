@@ -1,4 +1,4 @@
-Title: link to main logo <br>
+Title: link to "Eco News" button <br>
 Preconditions: User opens https://www.greencity.cx.ua/#/greenCity/events
 
 |    Step       |       Action             | Data          |Expected Result:|
