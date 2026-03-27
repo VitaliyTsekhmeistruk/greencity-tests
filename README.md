@@ -1,8 +1,8 @@
 # greencity-tests
-My_tests forCrash course TAQC
+My tests for Crash course TAQC
 
-Короткий опис завдання
+Task description:
 
-Посилання на сторінку, що тестується
+Link to testing page:
 
-Автор роботи
+Author of the work: Vitalii Tsekhmeistruk
