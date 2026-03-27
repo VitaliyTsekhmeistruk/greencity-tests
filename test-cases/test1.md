@@ -1,7 +1,0 @@
-Title <br>
-Preconditions 
-
-|    Step       |       Action       | Data          |Expected Result:|
-|---------------|--------------------|---------------|----------------|
-| Go to page 1  | Click on the button|     click     | it resilt      |
-
