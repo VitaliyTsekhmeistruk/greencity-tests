@@ -1,8 +1,8 @@
 # greencity-tests
 My tests for Crash course TAQC
 
-Task description:
+Task description: test links on headers
 
-Link to testing page:
+Link to testing page: https://www.greencity.cx.ua/#/greenCity/events
 
-Author of the work: Vitalii Tsekhmeistruk
+Author of the work: Vitaliy Tsekhmeistruk
